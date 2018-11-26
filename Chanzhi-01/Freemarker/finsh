@@ -1,0 +1,6 @@
+使用freeMarker来美化测试报告
+使用的jar包是freemarker.jar
+通过书写.ftl文件来搭建模板
+将测试结果使用map存储
+封装FreemarkerDemo方法run 
+把map内容模板化
